@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+# Awesome Curated Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-You can use the [editor on GitHub](https://github.com/benjaminchowpetit/selected-tools/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+*A curated list of digital tools that we use, ranging from accounting and data science to scientific research and liquid democracy. Commented, connected, by everyone and for everyone !*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Table of contents
 
-### Markdown
+* [**Introduction**](#introduction)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [**Scientist Tools**](#scientist-tools)
+    * [Access to articles](#access-to-articles)
+    * [Authoring](#authoring)
+    * [Bibliography management](#bibliography-management)
+    * [Citizen science](#citizen-science)
+    * [Pre-print and journals](#preprint-and-journals)
+    * [Reviewing](#reviewing)
+    * [Scientific data sharing](#scientific-data-sharing)
+    * [Scientist social networking](#scientist-social-networking)
+* [**Data Tools**](#data-tools)
+    * [Dashboards](#dashboards)
+    * [Databases and forms](#databases-and-forms)
+    * [Data cleaning and wrangling](#data-cleaning-and-wrangling)
+    * [Data integration and conversion](#data-integration-and-conversion)
+    * [Data mining platforms](#data-mining-platforms)
+    * [Data visualisation](#data-visualisation)
+    * [Geo and data journalism](#geo-and-data-journalism)
+    * [Machine learning and NLP](#machine-learning-and-NLP)
+    * [Open datasets](#open-datasets)
+    * [Open data platforms](#open-data-platforms)
+    * [Qualitative data analysis](#qualitative-data-analysis)
+    * [Search engines](#search-engines)
+    * [Web scrapers](#web-scrapers)
+* [**Knowledge Management Tools**](#knowledge-management-tools)
+    * [Content clipping](#content-clipping)
+    * [Curation and editorialisation](#curation-and-editorialisation)
+    * [Document authoring](#document-authoring)
+    * [Document management systems](#document-management-systems)
+* [**Design Tools**](#design-tools)
+    * [Graphic design and video](#graphic-design-and-video)
+    * [Other design resources](#other-design-resources)
+    * [Plug-ins, extensions and web services](#plugins-extensions-and-webservices)
+    * [Web and app design](#web-and-app-design)
+* [**Infrastructure & Development Tools**](#infrastructure-tools)
+    * [Automation](#automation)
+    * [Cloud platforms](#cloud-platforms)
+    * [Software repositories and IDE](#software-repositories-and-IDE)
+    * [Other infrastructure and development tools](#other-infrastructure-and-development-tools)
+* [**Organisation & Communication Tools**](#organisation-and-communication-tools)
+    * [Administrative, legal and financial](#administrative-legal-and-financial)
+    * [Discussion platforms](#discussion-platforms)
+    * [Distributed organisation](#open-collaboration)
+    * [Events and goodies](#events-and-goodies)
+    * [Meetings & conferencing](#meetings-and-conferencing)
+    * [Project management](#project-management)
+    * [Relationships and social media management](#relationships-and-social-media-management)
+    * [Social networks](#social-networks)
+    * [Other organisation and communication tools](#other-organisation-and-communication-tools)
 
-```markdown
-Syntax highlighted code block
+* [**Tools being explored**](#tools-being-explored)
+    * [R&D - AML, recommendations and search](#r&d-aml-recommendations-and-search)
+    * [R&D - Complex networks](#r&d-complex-networks)
+    * [R&D - Data](#r&d-data)
+    * [R&D - Distributed organisation](#r&d-distributed-organisation)
+    * [R&D - Financing](#r&d-financing)
+    * [R&D - P2P and adaptive learning](#rd-p2p-and-adaptive-learning)
+    * [R&D - Other tools](#r&d-other-tools)
 
-# Header 1
-## Header 2
-### Header 3
+* [**Miscellaneous Tools**](#miscellaneous-tools)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/benjaminchowpetit/selected-tools/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [**References**](#references)
