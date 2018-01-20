@@ -76,11 +76,12 @@
 
 ## Scientist Tools
 #### Access to articles
-* [ScienceHub](https://sci-hub.hk/) - a global science and technology publisher and provides free access to research articles and latest research information.
-* [Library Genesis](http://libgen.io/) - a multiple domain, search engine for publications.
+Here are the tools that will give you access to scientific articles in general, thanks to an international network of pirates.
+* [ScienceHub](https://sci-hub.hk/) - Also has a [Chrome extension](https://chrome.google.com/webstore/detail/sci-hub-links/olcgjijbclchlliaffaghajlbfppkbkl?hl=en) that will replace DOI and PubMed links into "liberated" article links.
+* [Library Genesis](http://libgen.io/) - A multiple domain, search and access engine for publications.
 
 #### Authoring
-* [Authorea](https://www.authorea.com/) - is where more than 100,000 researchers in fields from Astronomy to Zoology write their documents online.
+* [Authorea](https://www.authorea.com/) - It is like a Google Docs on steroids for scientific publications and Open Science. Here's an example of what you can do with it: ["Paper" of the Future](https://www.authorea.com/users/23/articles/8762-the-paper-of-the-future).
 
 #### Bibliography management
 * [F1000](https://f1000.com/) (Workspace & Prime) – Leading biomedical experts helping scientists to discover, discuss and publish research.
