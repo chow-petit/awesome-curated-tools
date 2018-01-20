@@ -132,7 +132,8 @@
 * [Tableau](https://www.tableau.com/) - an interactive data visualisation platform.
 
 #### Databases and forms
-* 
+* [Airtable](https://airtable.com/) Database meets collaborative spreadsheet.
+* [Typeform](https://typeform.com/) Personalised and beautifully designed forms with enhanced features.
 
 #### Data cleaning and wrangling
 * [OpenRefine](https://dedupe.io/) - a free, open source power tool for working with messy data and improving it.
@@ -301,7 +302,9 @@ Tools around GitHub: Project management / CI / etc...
 * [HelloAsso](https://www.helloasso.com/) - a crowdfunding platform dedicated to associations.
 
 #### Discussion platforms
+
 #### Distributed organisation
+
 #### Events and goodies
 * [Moo Cards](https://www.moo.com/) - high quality printed products with minimal order capacity.
 * [Spreadshirts](https://www.spreadshirt.com/) - a creative platform for custom t-shirts and custom clothing.
@@ -354,7 +357,6 @@ Tools around GitHub: Project management / CI / etc...
 * [Lastpass](https://www.lastpass.com/) - a freemium password management service that stores encrypted passwords in private accounts.
 * [Framatools](https://framakey.org/FramaTools) - open source web tools.
 * [Calendly](https://calendly.com/) - optimised task scheduling.
-* [RunKeeper] - a dedicated running app and community.
 * [100Open Toolkit](https://www.100open.com/toolkit/) - a 30-piece toolkit covering the whole open innovation journey, from setting a strategy for collaboration to implementing mutually beneficial business models.
 
 ## Tools being explored
