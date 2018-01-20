@@ -86,7 +86,7 @@ Here are the tools that will give you access to scientific articles in general, 
 
 #### Bibliography management
 * [Zotero.org](https://www.zotero.org/) is a free, widely used open source tool to help you collect, organize, cite, and share your research sources. The interfaces are not modern, as are the integrations, but the community is impressive. 
-* [F1000](https://f1000.com/) (Workspace & Prime) – F1000 Prime has leading biomedical experts helping scientists to discover, discuss and publish research. We use F1000 Workspace to curate libraries of science on Lifecaring, and it can be used on any topics beyond biomedicine. Has Google Docs, Chrome and Word extensions.
+* [F1000](https://f1000.com/) (Workspace & Prime) – We use F1000 Workspace to curate libraries of science on Lifecaring, and it can be used on any topics beyond biomedicine. Better interface than Zotero. Has Google Docs, Chrome and Word extensions. F1000 Prime has leading biomedical experts helping scientists to discover, discuss and publish research.
 
 #### Citizen science
 * [Zooniverse](https://www.zooniverse.org/) – Citizen science platform using the efforts and ability of volunteers to help scientists and researchers. The blend of human cognition and automated tools is extremly powerful on complex, messy tasks.
