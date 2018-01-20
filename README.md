@@ -79,16 +79,17 @@
 Here are the tools that will give you access to scientific articles in general, thanks to an international network of pirates.
 * [ScienceHub](https://sci-hub.hk/) - A website with >64.5 M of scientific articles and papers for direct download. Also has a [Chrome extension](https://chrome.google.com/webstore/detail/sci-hub-links/olcgjijbclchlliaffaghajlbfppkbkl?hl=en) that will replace DOI and PubMed links into "liberated" article links.
 * [Library Genesis](http://libgen.io/) - A multiple domain, search and access engine for publications and more than 2.1 M books.
+* [Google Scholar](https://scholar.google.com/) - Google, for scholarly literature.
 
 #### Authoring
 * [Authorea](https://www.authorea.com/) - It is like Google Docs on steroids for scientific publications and Open Science. Incredible capacities - we love it. Here's an example of what you can do with it: [The "Paper" of the Future](https://www.authorea.com/users/23/articles/8762-the-paper-of-the-future).
 
 #### Bibliography management
-* [F1000](https://f1000.com/) (Workspace & Prime) – Leading biomedical experts helping scientists to discover, discuss and publish research.
-* [Zotero.org](https://www.zotero.org/) is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
+* [Zotero.org](https://www.zotero.org/) is a free, widely used open source tool to help you collect, organize, cite, and share your research sources. The interfaces are not modern, as are the integrations, but the community is impressive. 
+* [F1000](https://f1000.com/) (Workspace & Prime) – F1000 Prime has leading biomedical experts helping scientists to discover, discuss and publish research. We use F1000 Workspace to curate libraries of science on Lifecaring, and it can be used on any topics beyond biomedicine. Has Google Docs, Chrome and Word extensions.
 
 #### Citizen science
-* [Zooniverse](https://www.zooniverse.org/) – Citizen science projects using the efforts and ability of volunteers to help scientists and researchers
+* [Zooniverse](https://www.zooniverse.org/) – Citizen science platform using the efforts and ability of volunteers to help scientists and researchers. The blend of human cognition and automated tools is extremly powerful on complex, messy tasks.
 
 #### Pre-print and journals
 * [PeerJ](https://peerj.com/) – Open access pre-print and publishing of life science research with annotation.
@@ -232,20 +233,20 @@ Here are the tools that will give you access to scientific articles in general, 
 
 ## Design Tools
 #### Graphic design and video
-* [Coggle.it](http://coggle.it/) - an online tool for creating and sharing easy to create, colored mindmaps.
-* [Draw.io](http://draw.io/) - a simple yet advanced flow chart and diagram creator.
-* [Creative Cloud](http://www.adobe.com/creativecloud.html) - access the entire collection of Adobe desktop and mobile apps.
-* [Piktochart](https://piktochart.com/) - an easy-to-Use infographic maker with a nice collection of diverse icons, templates and themes.
-* [Infogram](https://infogr.am/app/) (for live data only) - create professionally designed charts and maps, with templates and themes also available.
-* [VideoScribe](https://www.videoscribe.co/en/) - an easy to use whiteboard animation software to enhance and personalise your presentations.
-* [WeVideo](https://www.wevideo.com/) - an easy-to-use online video editor that makes it easy to capture, create, view and share your movies.
+* [Coggle.it](http://coggle.it/) - an online tool for creating and sharing mindmaps.
+* [Draw.io](http://draw.io/) - a flow chart and diagram creator.
+* [Creative Cloud](http://www.adobe.com/creativecloud.html) - the entire collection of Adobe desktop and mobile apps at your disposition.
+* [Piktochart](https://piktochart.com/) - an easy-to-Use infographic maker.
+* [Infogram](https://infogr.am/app/) (for live data only) - to create charts and maps.
+* [VideoScribe](https://www.videoscribe.co/en/) - the leading whiteboard animation software.
+* [WeVideo](https://www.wevideo.com/) - an online video editor that makes it easy to capture, create, view and share your movies.
 
 #### Plug-ins, extensions and web services
-* [Embed.ly](http://embed.ly/) - embed your rich media.
+* [Embed.ly](http://embed.ly/) - rich media embeds.
 * [GPLDL (General Public License Downloads)](https://gpldl.com/) - download the most popular GPL-licensed premium WordPress themes & plugins and WooCommerce extensions & themes.
-* [SEO Yoast](https://yoast.com/wordpress/plugins/seo/) - a useful WordPress SEO plugin.
+* [SEO Yoast](https://yoast.com/wordpress/plugins/seo/) - a WordPress SEO plugin.
 * [InboundNow](https://www.inboundnow.com/) - an inbound marketing suite.
-* [ORBTR](https://orbtr.net/) - recognised marketing automation and tracking solution.
+* [ORBTR](https://orbtr.net/) - marketing automation and lead tracking solution.
 * [Crowdin](https://crowdin.com/) - a localization management platform.
 
 #### Web and app design
@@ -261,11 +262,11 @@ Here are the tools that will give you access to scientific articles in general, 
 
 #### Other design resources
 * [HCL Color Space](http://www.hclwizard.org/color-scheme/) - is based on how the human eye perceives colors.
-* [Icon Finder](https://www.iconfinder.com/) - find icon image sets, plus editing and designs for icons.
-* [Jet Strap](https://jetstrap.com/) - a premier interface-building tool for Bootstrap 3.
+* [Icon Finder](https://www.iconfinder.com/) - sets, editing and designs for icons.
+* [Jet Strap](https://jetstrap.com/) - a peremier interface-building tool for Bootstrap 3.
 * [Google fonts](https://fonts.google.com/) - an intuitive and robust directory of open source designer web fonts.
-* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - a directory of minimalist and elegant patterns for upload and download.
-* [Font Awesome](http://fontawesome.io/icons/) - a handy directory for downloading and customising icons to complement your web projects.
+* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - a directory of patterns for upload and download.
+* [Font Awesome](http://fontawesome.io/icons/) - a directory for downloading and customising icons.
 
 ## Infrastructure & Development Tools
 #### Automation
@@ -275,11 +276,10 @@ Here are the tools that will give you access to scientific articles in general, 
 * [Zapier](https://zapier.com/) - connect your apps and automate workflows.
 
 #### Cloud platforms
-Top cloud, server, hosting and storage services.
 * [Amazon Web Services (AWS) Platform](https://aws.amazon.com/)
 * [Azure](https://azure.microsoft.com/en-us/)
 * [Google Cloud Platform](https://cloud.google.com/)
-* [Hetzner](https://www.hetzner.com/)
+* [Hetzner](https://www.hetzner.com/) - server, hosting and storage services.
 * [IBM Cloud](https://www.ibm.com/cloud/)
 * [OVH Cloud](https://www.ovh.fr/)
 
