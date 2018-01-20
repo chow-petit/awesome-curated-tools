@@ -77,8 +77,8 @@
 ## Scientist Tools
 #### Access to articles
 Here are the tools that will give you access to scientific articles in general, thanks to an international network of pirates.
-* [ScienceHub](https://sci-hub.hk/) - Also has a [Chrome extension](https://chrome.google.com/webstore/detail/sci-hub-links/olcgjijbclchlliaffaghajlbfppkbkl?hl=en) that will replace DOI and PubMed links into "liberated" article links.
-* [Library Genesis](http://libgen.io/) - A multiple domain, search and access engine for publications.
+* [ScienceHub](https://sci-hub.hk/) - A website with >64.5 M of scientific articles and papers for direct download. Also has a [Chrome extension](https://chrome.google.com/webstore/detail/sci-hub-links/olcgjijbclchlliaffaghajlbfppkbkl?hl=en) that will replace DOI and PubMed links into "liberated" article links.
+* [Library Genesis](http://libgen.io/) - A multiple domain, search and access engine for publications and more than 2.1 M books.
 
 #### Authoring
 * [Authorea](https://www.authorea.com/) - It is like a Google Docs on steroids for scientific publications and Open Science. Here's an example of what you can do with it: [The "Paper" of the Future](https://www.authorea.com/users/23/articles/8762-the-paper-of-the-future).
