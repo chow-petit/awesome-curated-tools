@@ -81,7 +81,6 @@
 
 #### Authoring
 * [Authorea](https://www.authorea.com/) - is where more than 100,000 researchers in fields from Astronomy to Zoology write their documents online.
-* [PaperHive](https://paperhive.org/) – Simplifying research communication and introducing new ways of collaboration through in-document discussions.
 
 #### Bibliography management
 * [F1000](https://f1000.com/) (Workspace & Prime) – Leading biomedical experts helping scientists to discover, discuss and publish research.
@@ -109,6 +108,7 @@
 * [Academic Karma](http://academickarma.org/) – Review of preprint publication, open and linked to original preprint.
 * [Hypothes.is](http://hypothes.is/) – Sentence-level peer-review to provide commentary, references, and insight on top of online content.
 * [Publons](http://publons.com/) - a community of peer reviewers.
+* [PaperHive](https://paperhive.org/) – Simplifying research communication and introducing new ways of collaboration through in-document discussions.
 
 #### Scientific data sharing
 * [Dataverse Network](http://thedata.org/) – Harvard-based tool to share, cite, reuse and archive research data.
