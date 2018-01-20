@@ -106,10 +106,10 @@ Here are the tools that will give you access to scientific articles in general, 
 * [Isidore SHS Libraries, A&H labs and research projects](https://www.rechercheisidore.fr/).
 
 #### Reviewing
+* [Hypothes.is](http://hypothes.is/) – In theory, it is a "sentence-level peer-review tool to provide commentary, references, and insight on top of online content". In practice, it is awesome ! You can annotate.the.web !
 * [ScienceOpen](https://www.scienceopen.com/) – Freely accessible research network to share and evaluate scientific information.
 * [Academic Karma](http://academickarma.org/) – Review of preprint publication, open and linked to original preprint.
-* [Hypothes.is](http://hypothes.is/) – Sentence-level peer-review to provide commentary, references, and insight on top of online content.
-* [Publons](http://publons.com/) - a community of peer reviewers.
+* [Publons](http://publons.com/) - A community of peer reviewers.
 * [PaperHive](https://paperhive.org/) – Simplifying research communication and introducing new ways of collaboration through in-document discussions.
 
 #### Scientific data sharing
