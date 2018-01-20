@@ -232,20 +232,20 @@ Here are the tools that will give you access to scientific articles in general, 
 
 ## Design Tools
 #### Graphic design and video
-* [Coggle.it](http://coggle.it/) - an online tool for creating and sharing mindmaps.
-* [Draw.io](http://draw.io/) - a flow chart and diagram creator.
-* [Creative Cloud](http://www.adobe.com/creativecloud.html) - the entire collection of Adobe desktop and mobile apps at your disposition.
-* [Piktochart](https://piktochart.com/) - an easy-to-Use infographic maker.
-* [Infogram](https://infogr.am/app/) (for live data only) - to create charts and maps.
-* [VideoScribe](https://www.videoscribe.co/en/) - the leading whiteboard animation software.
-* [WeVideo](https://www.wevideo.com/) - an online video editor that makes it easy to capture, create, view and share your movies.
+* [Coggle.it](http://coggle.it/) - an online tool for creating and sharing easy to create, colored mindmaps.
+* [Draw.io](http://draw.io/) - a simple yet advanced flow chart and diagram creator.
+* [Creative Cloud](http://www.adobe.com/creativecloud.html) - access the entire collection of Adobe desktop and mobile apps.
+* [Piktochart](https://piktochart.com/) - an easy-to-Use infographic maker with a nice collection of diverse icons, templates and themes.
+* [Infogram](https://infogr.am/app/) (for live data only) - create professionally designed charts and maps, with templates and themes also available.
+* [VideoScribe](https://www.videoscribe.co/en/) - an easy to use whiteboard animation software to enhance and personalise your presentations.
+* [WeVideo](https://www.wevideo.com/) - an easy-to-use online video editor that makes it easy to capture, create, view and share your movies.
 
 #### Plug-ins, extensions and web services
-* [Embed.ly](http://embed.ly/) - rich media embeds.
+* [Embed.ly](http://embed.ly/) - embed your rich media.
 * [GPLDL (General Public License Downloads)](https://gpldl.com/) - download the most popular GPL-licensed premium WordPress themes & plugins and WooCommerce extensions & themes.
-* [SEO Yoast](https://yoast.com/wordpress/plugins/seo/) - a WordPress SEO plugin.
+* [SEO Yoast](https://yoast.com/wordpress/plugins/seo/) - a useful WordPress SEO plugin.
 * [InboundNow](https://www.inboundnow.com/) - an inbound marketing suite.
-* [ORBTR](https://orbtr.net/) - marketing automation and lead tracking solution.
+* [ORBTR](https://orbtr.net/) - recognised marketing automation and tracking solution.
 * [Crowdin](https://crowdin.com/) - a localization management platform.
 
 #### Web and app design
@@ -261,11 +261,11 @@ Here are the tools that will give you access to scientific articles in general, 
 
 #### Other design resources
 * [HCL Color Space](http://www.hclwizard.org/color-scheme/) - is based on how the human eye perceives colors.
-* [Icon Finder](https://www.iconfinder.com/) - sets, editing and designs for icons.
-* [Jet Strap](https://jetstrap.com/) - a peremier interface-building tool for Bootstrap 3.
+* [Icon Finder](https://www.iconfinder.com/) - find icon image sets, plus editing and designs for icons.
+* [Jet Strap](https://jetstrap.com/) - a premier interface-building tool for Bootstrap 3.
 * [Google fonts](https://fonts.google.com/) - an intuitive and robust directory of open source designer web fonts.
-* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - a directory of patterns for upload and download.
-* [Font Awesome](http://fontawesome.io/icons/) - a directory for downloading and customising icons.
+* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - a directory of minimalist and elegant patterns for upload and download.
+* [Font Awesome](http://fontawesome.io/icons/) - a handy directory for downloading and customising icons to complement your web projects.
 
 ## Infrastructure & Development Tools
 #### Automation
@@ -275,10 +275,11 @@ Here are the tools that will give you access to scientific articles in general, 
 * [Zapier](https://zapier.com/) - connect your apps and automate workflows.
 
 #### Cloud platforms
+Top cloud, server, hosting and storage services.
 * [Amazon Web Services (AWS) Platform](https://aws.amazon.com/)
 * [Azure](https://azure.microsoft.com/en-us/)
 * [Google Cloud Platform](https://cloud.google.com/)
-* [Hetzner](https://www.hetzner.com/) - server, hosting and storage services.
+* [Hetzner](https://www.hetzner.com/)
 * [IBM Cloud](https://www.ibm.com/cloud/)
 * [OVH Cloud](https://www.ovh.fr/)
 
