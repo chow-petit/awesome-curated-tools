@@ -73,6 +73,7 @@
 
 ## Introduction
 
+![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) We put this badge next to the tools that are particulary important to us, for reasons that go beyond their categories.
 
 ## Scientist Tools
 #### Access to articles
