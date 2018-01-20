@@ -81,7 +81,7 @@ Here are the tools that will give you access to scientific articles in general, 
 * [Library Genesis](http://libgen.io/) - A multiple domain, search and access engine for publications and more than 2.1 M books.
 
 #### Authoring
-* [Authorea](https://www.authorea.com/) - It is like a Google Docs on steroids for scientific publications and Open Science. Here's an example of what you can do with it: [The "Paper" of the Future](https://www.authorea.com/users/23/articles/8762-the-paper-of-the-future).
+* [Authorea](https://www.authorea.com/) - It is like Google Docs on steroids for scientific publications and Open Science. Incredible capacities - we love it. Here's an example of what you can do with it: [The "Paper" of the Future](https://www.authorea.com/users/23/articles/8762-the-paper-of-the-future).
 
 #### Bibliography management
 * [F1000](https://f1000.com/) (Workspace & Prime) – Leading biomedical experts helping scientists to discover, discuss and publish research.
