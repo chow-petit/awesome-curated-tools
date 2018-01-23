@@ -488,11 +488,23 @@ Including walkthroughs / tutorials and contextual P2P help. This is going to be 
 * [Framatools](https://framakey.org/FramaTools) - Open source web tools.
 * [Calendly](https://calendly.com/) - Optimised task scheduling.
 
+**To do:**
+Voice, A/V recognition tools (castingwords, rev, voicebox and so on)
+Image recognition tools
+Check Data & Automation tools
+ETL & ELT tools
+Leximancer
+All GitHub and software engineering related tools, PM tools, Atlassian tools
+DevOps, NetEng tools (Chef, Jenkins, containers, CI
+
 ## References
-* [Connected Researchers Tools list](http://connectedresearchers.com/online-tools-for-researchers/) - Online tools For researchers
+* ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) ![**Open Source**](https://img.shields.io/badge/Open-Source-blue.svg) [Awesome lists](https://github.com/sindresorhus/awesome) - A list of awesome lists.
+* ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg)[Connected Researchers Tools list](http://connectedresearchers.com/online-tools-for-researchers/) - Online tools For researchers
+* [KD Nuggets](https://www.kdnuggets.com/) - Knowledge Discovery portal
+* [Sharestack.io](https://stackshare.io/news) - Share your technical stack and discover others.
+
 * [IDEO labs](https://labs.ideo.com/2014/09/19/digital-tools-for-design-research/) - Digital Tools for Design Research.
 * [Hybrid Insights](http://5a5f89b8e10a225a44ac-ccbed124c38c4f7a3066210c073e7d55.r9.cf1.rackcdn.com/files/pdfs/news/pp_56-61_HybridInsights_RotFall12_spreads.pdf) - Where the quantitative meets the qualitative.
-* Article: [The "Paper" of the Future](https://www.authorea.com/users/23/articles/8762-the-paper-of-the-future?commit=d4033594de841d252b3220927b39de4314d26409)
 * [The Knight Science Journalism Program at MIT](https://ksj.mit.edu/data-journalism-tools/) - Data journalism tools
 * [Global investigative journalism network](https://gijn.org/resources/data-journalism/) - Data journalism
 * [Data Driven Journalism](http://datadrivenjournalism.net/resources) - Data journalism tool kit
