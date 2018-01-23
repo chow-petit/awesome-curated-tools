@@ -406,23 +406,23 @@ See also [R&D - Financing](#r&d-financing). We're still looking for a good Franc
 * ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) [Hootsuite](https://hootsuite.com/) - A social media management platform. The system’s user interface takes the form of a dashboard, and supports social network integrations for Twitter, Facebook, Instagram, LinkedIn, Google+, YouTube, and many more. Additional integrations are available via Hootsuite’s App Directory.
 * [Juicer.io](http://juicer.io/) - Load more content simply by scrolling to the bottom of the page. Auto-approve all your user generated content, or set up auto-moderation filters. Custom CSS: Style it to fit your brand or site. Advanced Analytics: Find out who uses your social feed, and how they interact with it.
 * ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) [Mailchimp](https://mailchimp.com/) - A popular marketing automation platform and email marketing service company. Goes well with mailgun.com which provides procedural e-mail services.
-* [NimbleCRM](https://www.nimble.com/) - Offers browser widget and mobile-based sales force automation and social CRM solution for small and midsize businesses. The solution automatically populates customer profiles and interaction histories from contact lists, email conversations and social media activity across a range of popular platforms.
+* ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) [NimbleCRM](https://www.nimble.com/) - Offers browser widget and mobile-based sales force automation and social CRM solution for small and midsize businesses. The solution automatically populates customer profiles and interaction histories from contact lists, email conversations and social media activity across a range of popular platforms.
 * [Sharypic](https://www.sharypic.com/) - An event photo sharing service for gathering people and pictures in one place. Collaborate together in a unique gallery in real time.
 
 
 #### Social networks
 
-* [Facebook](https://www.facebook.com/) -  A social networking website and service where users can post comments, share photographs and links to news or other interesting content on the Web, play games, chat live, and even stream live video. Shared content can also be made publicly accessible.
+* [Facebook](https://www.facebook.com/) -  A social networking website and service where users can post comments, share photographs and links to news or other interesting content on the Web, play games, chat live, and even stream live video. Designed to be highly addictive. A lot of people just use the Facebook Messenger, without ever going on the platformm itself. 
 * [Imgur](https://imgur.com/) - An online image sharing community and image host.
 * [Instagram](https://www.instagram.com/?hl=en) - A mobile, desktop, and Internet-based photo-sharing application and service.
 * [LinkedIn](https://www.linkedin.com/) - A business- and employment-oriented social networking service that operates via websites and mobile apps. Mainly used for professional networking, including employers posting jobs and job seekers posting their CVs. As of April 2017, LinkedIn had 500 million members in 200 countries, out of which more than 106 million members are active.
-* [Medium](https://medium.com/) - An online publishing platform, an example of social journalism, having a hybrid collection of amateur and professional people and publications, or exclusive blogs or publishers on Medium, and is regularly regarded as a blog host.
+* ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) [Medium](https://medium.com/) - An online publishing platform, an example of social journalism, having a hybrid collection of amateur and professional people and publications, or exclusive blogs or publishers on Medium, and is regularly regarded as a blog host.
 * [Meetup](https://www.meetup.com/) - An online social networking service, intended for people to organize and/or join group meetings in real life. Meetups are formed around a common interest, goal, or cause, and they are made up of regular, face-to-face gatherings.
-* [Quora](https://www.quora.com/) - A question-and-answer site where questions are asked, answered, edited and organized by its community of users.
-* [Reddit](https://www.reddit.com/) - A social news aggregation, web content rating, and discussion website.
+* ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) [Quora](https://www.quora.com/) - A question-and-answer site where questions are asked, answered, edited and organized by its community of users.
+* ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) [Reddit](https://www.reddit.com/) - A social news aggregation, web content rating, and discussion website.
 * [Slideshare](https://www.slideshare.net/) -  A Web 2.0–based slide hosting service. Users can upload files privately or publicly in the following file formats: PowerPoint, PDF, or OpenDocument presentations. Slide decks can then be viewed on the site itself, on hand held devices or embedded on other sites.
 * [Twitter](https://twitter.com/) - An online news and social networking service where users post and interact with messages, known as "tweets." These messages were originally restricted to 140 characters, but on November 7, 2017, the limit was doubled to 280 characters for all languages except Japanese, Korean and Chinese.
-* [Y Combinator](https://news.ycombinator.com/) - Y Combinator provides seed funding for startups, and is a big network of hackers. Their news stream Hacker News is an ear in their Silicon Valley community.
+* ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) [Y Combinator](https://news.ycombinator.com/) - Y Combinator provides seed funding for startups, and is a big network of hackers. Their news stream Hacker News is an ear in their Silicon Valley community.
 * [Youtube](https://www.youtube.com/) - Allows users to upload, view, rate, share, add to favorites, report, comment on videos, and subscribe to other users, offering a wide variety of user-generated and corporate media videos. Available content includes video clips, TV show clips, music videos, short and documentary films, audio recordings, movie trailers, live streams, and other content such as video blogging, short original videos, and educational videos.
 
 
@@ -453,7 +453,10 @@ See also [R&D - Financing](#r&d-financing). We're still looking for a good Franc
 * [IPFS](https://ipfs.io/) -  A protocol and eponymous network designed to create a content-addressable, peer-to-peer method of storing and sharing hypermedia in a distributed file system.
 
 #### R&D - Distributed organisation
-#### R&D - Financing
+Tools for practical liquid democracy, emergent organisations, and holacracy. Most of these tools are in Beta and/or pretty recent.
+Any project linked to https://enspiral.com/ : [Loomio](https://www.loomio.org), [CoBudget](http://cobudget.co/#/), [OpenCollective](https://opencollective.com/). These are prime examples of ![**Open Source**](https://img.shields.io/badge/Open-Source-blue.svg) and potentially ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) tools.
+
+#### R&D - ENtrepreneurship & financing
 * [Research Professional](https://linkurio.us/blog/introduction-graph-technologies-landscape/Visallo) – Source of intelligence on funding opportunities and research policy.
 * [SciVal Funding](http://www.funding.scival.com/) – A comprehensive source of funding information.
 * [Angel List](https://angel.co/) - Startups directory and service site for recruitment, investment and referencea.
@@ -466,7 +469,7 @@ See also [R&D - Financing](#r&d-financing). We're still looking for a good Franc
 * [100Open Toolkit](https://www.100open.com/toolkit/) - A 30-piece toolkit covering the whole open innovation journey, from setting a strategy for collaboration to implementing mutually beneficial business models.
 
 #### R&D - P2P and adaptive learning
-Including walkthroughs / tutorials and contextual P2P help.
+Including walkthroughs / tutorials and contextual P2P help. This is going to be a hot area of R&D for us this year (2018).
 * [Degreed](https://degreed.com/) - A skill certification platform.
 
 #### Unsorted or untested tools
@@ -486,17 +489,12 @@ Including walkthroughs / tutorials and contextual P2P help.
 * [Calendly](https://calendly.com/) - Optimised task scheduling.
 
 ## References
-#### Various references
 * [Connected Researchers Tools list](http://connectedresearchers.com/online-tools-for-researchers/) - Online tools For researchers
 * [IDEO labs](https://labs.ideo.com/2014/09/19/digital-tools-for-design-research/) - Digital Tools for Design Research.
 * [Hybrid Insights](http://5a5f89b8e10a225a44ac-ccbed124c38c4f7a3066210c073e7d55.r9.cf1.rackcdn.com/files/pdfs/news/pp_56-61_HybridInsights_RotFall12_spreads.pdf) - Where the quantitative meets the qualitative.
 * Article: [The "Paper" of the Future](https://www.authorea.com/users/23/articles/8762-the-paper-of-the-future?commit=d4033594de841d252b3220927b39de4314d26409)
-
-#### List of digital tools for design & hybrid research
 * [The Knight Science Journalism Program at MIT](https://ksj.mit.edu/data-journalism-tools/) - Data journalism tools
 * [Global investigative journalism network](https://gijn.org/resources/data-journalism/) - Data journalism
-
-#### Exhaustive lists of tools that have been crunched
 * [Data Driven Journalism](http://datadrivenjournalism.net/resources) - Data journalism tool kit
 * [Poynter](https://www.poynter.org/channels/digital-tools) - Digital tools reference.
 * [Dataviz.tools](http://dataviz.tools/https://medium.com/@Journalism2ls/75-tools-for-investigative-journalists-7df8b151db35http://dirtdirectory.org/https://www.kdnuggets.com/) - A curated guide to the best tools, resources and technologies for data visualization.
