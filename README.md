@@ -80,7 +80,7 @@ Your contributions are always welcome !
     * [R&D - Complex networks](#r&d-complex-networks)
     * [R&D - Data](#r&d-data)
     * [R&D - Distributed organisation](#r&d-distributed-organisation)
-    * [R&D - Financing](#r&d-financing)
+    * [R&D - Entrepreneurship and financing](#r&d-entrepreneurship-and-financing)
     * [R&D - P2P and adaptive learning](#rd-p2p-and-adaptive-learning)
     * [Unsorted or untested tools](#unsorted-or-untested-tools)
 
@@ -456,7 +456,7 @@ See also [R&D - Financing](#r&d-financing). We're still looking for a good Franc
 Tools for practical liquid democracy, emergent organisations, and holacracy. Most of these tools are in Beta and/or pretty recent.
 Any project linked to https://enspiral.com/ : [Loomio](https://www.loomio.org), [CoBudget](http://cobudget.co/#/), [OpenCollective](https://opencollective.com/). These are prime examples of ![**Open Source**](https://img.shields.io/badge/Open-Source-blue.svg) and potentially ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) tools.
 
-#### R&D - ENtrepreneurship & financing
+#### R&D - Entrepreneurship and financing
 * [Research Professional](https://linkurio.us/blog/introduction-graph-technologies-landscape/Visallo) – Source of intelligence on funding opportunities and research policy.
 * [SciVal Funding](http://www.funding.scival.com/) – A comprehensive source of funding information.
 * [Angel List](https://angel.co/) - Startups directory and service site for recruitment, investment and referencea.
