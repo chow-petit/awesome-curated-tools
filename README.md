@@ -5,7 +5,7 @@
 ## Introduction
 We are Connie & Benjamin Chow-Petit, members of a special hacklab called [La Myne](https://lamyne.org).
 
-In contact with La Myne's community, anybody of whatever age, knowledge, coming with an organisation or not, can learn between peers, initiate, join projects, mutualize resources and so on. Each reciprocity agreement is unique. This lead to a wide array of activities, ranging from collaborative meals with kids to international research programs and socio-economical ventures.
+In contact with La Myne's community, anybody of whatever age, knowledge, coming with an organisation or not, can learn between peers, initiate, join projects, mutualize resources and so on. Each reciprocity agreement is unique. This lead to a wide array of activities, ranging from collaborative meals with kids to international research programs and socio-economical ventures. With these came a lot of challenges, general chaos, and a lot of experimentations with tools.
 
 This curated list represents our personal state-of-art and exploration in terms of integrated tools, with examples on how we use them. They are meant to be collaborative and connected together. Key criterias in this selection are ease-of-use and low maintenance. That excluded a lot of powerful, but time-consuming and skill-dependant tools. We will put those in another list.
 
