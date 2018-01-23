@@ -498,7 +498,7 @@ DevOps, NetEng tools (Chef, Jenkins, containers, CI
 
 ## References
 * ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) ![**Open Source**](https://img.shields.io/badge/Open-Source-blue.svg) [Awesome lists](https://github.com/sindresorhus/awesome) - A list of awesome lists.
-* ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg)[Connected Researchers Tools list](http://connectedresearchers.com/online-tools-for-researchers/) - Online tools For researchers
+* ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) [Connected Researchers Tools list](http://connectedresearchers.com/online-tools-for-researchers/) - Online tools For researchers
 * [KD Nuggets](https://www.kdnuggets.com/) - Knowledge Discovery portal
 * [Sharestack.io](https://stackshare.io/news) - Share your technical stack and discover others.
 
