@@ -68,7 +68,6 @@ Your contributions are always welcome !
 * [**Organisation & Communication Tools**](#organisation-and-communication-tools)
     * [Administrative, legal and financial](#administrative-legal-and-financial)
     * [Discussion platforms](#discussion-platforms)
-    * [Distributed organisation](#open-collaboration)
     * [Events and goodies](#events-and-goodies)
     * [Meetings & conferencing](#meetings-and-conferencing)
     * [Project management](#project-management)
@@ -353,6 +352,8 @@ Cloud, server, hosting and storage services. From IaaS (Infractructure-as-a-serv
 
 ### Organisation & Communication Tools
 
+For distributed organisations (liquid democracy, doocracy, holacracy,etc), as most tools are still in early stage, we put it under [R&D - Distributed organisation](#r&d-distributed-organisation).
+
 #### Administrative, legal and financial
 See also [R&D - Financing](#r&d-financing). We're still looking for a good France-compatible SaaS accounting service, for associations and companies.
 
@@ -375,8 +376,6 @@ See also [R&D - Financing](#r&d-financing). We're still looking for a good Franc
 * [Sameroom.io](http://sameroom.io/) - Connects chatrooms (even when they're running on completely different services).
 * [Chatlio](https://chatlio.com/) - Chat with your website visitors directly from Slack.
 * ![**Open Source**](https://img.shields.io/badge/Open-Source-blue.svg) [Telegram](https://telegram.org/) - Telegram is a non-profit cloud-based instant messaging service.
-
-#### Distributed organisation
 
 #### Events and goodies
 * ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) [Moo Cards](https://www.moo.com/) - An online print and design company with the aim to disrupt the global print industry by making high quality, designer products available to all online. Features include the capability to print multiple images for single orders, and being able to order smaller quantities.
