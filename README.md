@@ -84,6 +84,7 @@ Your contributions are always welcome !
     * [Unsorted or untested tools](#unsorted-or-untested-tools)
 
 * [**References**](#references)
+* [**How to contribute to this list**](#how-do-i-contribute-to-to-this-list)
 
 
 ## Scientist Tools
@@ -510,6 +511,14 @@ DevOps, NetEng tools (Chef, Jenkins, containers, CI
 * [Poynter](https://www.poynter.org/channels/digital-tools) - Digital tools reference.
 * [Dataviz.tools](http://dataviz.tools/https://medium.com/@Journalism2ls/75-tools-for-investigative-journalists-7df8b151db35http://dirtdirectory.org/https://www.kdnuggets.com/) - A curated guide to the best tools, resources and technologies for data visualization.
 
+
+---
+## How do I contribute to this list?
+
+Have an idea of a tool that should be on this list? Here's how you can add it:
+ * **Familiar with github?** Send a pull request with your suggestions. If you're not sure how to do that don't sweat it. See below.
+ * **Not familiar with github?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). FYI you'll need to create a github account.
+Thank you [Drew Wilson](https://drewrwilson.com) for this part.
 
 ---
 
