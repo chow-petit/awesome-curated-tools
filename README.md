@@ -487,6 +487,8 @@ Including walkthroughs / tutorials and contextual P2P help. This is going to be 
 * [Lastpass](https://www.lastpass.com/) - a freemium password management service that stores encrypted passwords in private accounts. LastPass is standard with a web interface, but also includes plugins for many web browsers and apps for many smartphones.
 * [Framatools](https://framakey.org/FramaTools) - Open source web tools.
 * [Calendly](https://calendly.com/) - Optimised task scheduling.
+* [Figma](https://www.figma.com/) - Allows you to design mock UI and test them, collaboratively
+
 
 **To do:**
 Voice, A/V recognition tools (castingwords, rev, voicebox and so on)
