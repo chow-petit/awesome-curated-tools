@@ -488,6 +488,7 @@ Including walkthroughs / tutorials and contextual P2P help. This is going to be 
 * [Framatools](https://framakey.org/FramaTools) - Open source web tools.
 * [Calendly](https://calendly.com/) - Optimised task scheduling.
 * [Figma](https://www.figma.com/) - Allows you to design mock UI and test them, collaboratively
+* [Revolut](https://www.revolut.com/fr/?lang=en) - Modern banking
 
 
 **To do:**
@@ -497,7 +498,7 @@ Check Data & Automation tools
 ETL & ELT tools
 Leximancer
 All GitHub and software engineering related tools, PM tools, Atlassian tools
-DevOps, NetEng tools (Chef, Jenkins, containers, CI
+DevOps, NetEng tools (Chef, Jenkins, containers, CI)
 
 ## References
 * ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) ![**Open Source**](https://img.shields.io/badge/Open-Source-blue.svg) [Awesome lists](https://github.com/sindresorhus/awesome) - A list of awesome lists.
