@@ -233,6 +233,7 @@ Qualitative data usually involve people and their activities, signs, behaviors, 
 * ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) [Draftin](https://draftin.com/) - Sleek version control and collaborative draft writing that includes audio/video transcription capacities.
 * [oTranscribe](http://otranscribe.com/) - A free web app to take the pain out of transcribing recorded interviews.
 * [Trint](https://trint.com/) - Advanced auto-transcribing of audio and video. Collaborative, powerful, but pricy.
+* [Youtube](https://youtube.com/) - One can use Youtube's auto-transcribing of audio and video to kickstart the transcription of audio and video files. Free tools.
 
 #### Search engines
 Apart from the obvious Google, we use these search engines. See also [R&D - AML, recommendations and search](#r&d-aml-recommendations-and-search).
