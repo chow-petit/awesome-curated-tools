@@ -396,6 +396,7 @@ See also [R&D - Financing](#r&d-financing). We're still looking for a good Franc
 
 #### Project management
 * ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) [Asana](https://asana.com/) - A web and mobile application designed to help teams track their work. Founded in 2008 by Facebook co-founder Dustin Moskovitz and ex-engineer Justin Rosenstein, who both worked on improving the productivity of employees at Facebook.
+* [Taskade](https://taskade.com/) - A modern team productivity tool designed for remote teams. Create and share task lists, notes and meeting agendas instantly. Taskade is real-time and syncs across all devices on web, mobile and desktop.
 * ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) [Trello](https://trello.com/) - A dashboard, visual based project management. A Trello board is a list of lists, filled with cards, used by you and your team. It's a lot more than that, though. Trello has everything you need to organize projects of any size. Open a card and you can add comments, upload file attachments, create checklists, add labels and due dates, and more.
 
 #### Relationships and social media management
