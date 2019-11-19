@@ -84,6 +84,8 @@ Your contributions are always welcome !
     * [Unsorted or untested tools](#unsorted-or-untested-tools)
 
 * [**References**](#references)
+* [**Stuff to deal with**](#stuff-to-deal-with)
+* [**Leftovers**](#leftovers)
 * [**How to contribute to this list**](#how-do-i-contribute-to-to-this-list)
 
 
@@ -515,6 +517,36 @@ DevOps, NetEng tools (Chef, Jenkins, containers, CI)
 * [Poynter](https://www.poynter.org/channels/digital-tools) - Digital tools reference.
 * [Dataviz.tools](http://dataviz.tools/https://medium.com/@Journalism2ls/75-tools-for-investigative-journalists-7df8b151db35http://dirtdirectory.org/https://www.kdnuggets.com/) - A curated guide to the best tools, resources and technologies for data visualization.
 
+## Stuff to deal with
+
+* SSO / Identity management
+* Backup
+* DevOps / CI
+* Design
+* Other wiki / Editorial
+* Curation / KM
+* Devices
+
+
+## Leftovers
+
+* [SemApps](https://www.virtual-assembly.org/semapps-2/) - SemApps is an open-source software allowing to develop geographic information system  in semantic, intra- and inter- community.
+* [Communecter](https://www.communecter.org/) (+agenda) - An innovative societal network at the service of citizens who are agents of change.
+* [Discourse](https://www.discourse.org/) - Discourse is the 100% open source discussion platform built for the next decade of the Internet. Use it as a mailing list, discussion forum, long-form chat room, and more!
+* Tim's proposition
+iilab.github.io/contentascode - Content as Code is an approach to develop workflows and technology to improve content re-use and maintainability. It aims to make content authoring and management benefit from software engineering collaboration best practices.
+* [dokie.li](https://dokie.li/) - dokieli is a clientside editor for decentralised article publishing, annotations and social interactions.
+* [Miro](https://miro.com/) - Experience the power of the Miro visual collaboration platform to create, collaborate, and centralize communication across your company on a single online whiteboard.
+* [Aha!](https://www.aha.io/) - Aha! is for roadmapping collaboratively, for product and marketing teams — work independently or collaborate better together.
+* [Kirby](https://getkirby.com/) - Kirby is the content management system, you build your own ideal interface. Combine forms, galleries, articles, spreadsheets and more into an amazing editing experience.
+* [Notion](https://www.notion.so/) - The all-in-one workspace. Write, plan, collaborate, and get organized.
+* [Samepage](https://www.samepage.io/) - The all-in-one collaborative platform. We blend communication, project management, and file sharing tools together in a single app, giving you more clarity and less noise so you can get more done.
+* [Monday](https://monday.com/) - A project management platform that you can plan, organize and track, in one visual, collaborative space.
+* jamstack.org/examples/ - Is a technical stack based on static websites.
+* [POWR](https://www.powr.io/) - Website plugins to grow your business. Forms, popups, countdown timers, sliders, media galleries, ecommerce, social media feeds/icons and much more. No coding necessary.
+* Anyti.me (+ [Fizen](https://www.fizen.fr/)) - Anytime is a Neobank for companies, professionals, associations, and private individuals.  Fizen allows you to save time on your management and manage your activity in real time. Designed and used by chartered accountants for VSE executives. 
+
+Also: Beekast, Canva, DoDoc, Framasoft, Gogocarto, Mashup Tables, Netvibes, Open Agenda, Padlet, Pearltrees, SenInBlue, Wekan, YesWiki.
 
 ---
 ## How do I contribute to this list?
