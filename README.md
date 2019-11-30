@@ -548,6 +548,10 @@ iilab.github.io/contentascode - Content as Code is an approach to develop workfl
 
 Also: Beekast, Canva, DoDoc, Framasoft, Gogocarto, Mashup Tables, Netvibes, Open Agenda, Padlet, Pearltrees, SenInBlue, Wekan, YesWiki.
 
+Assembl by Bluenov
+Odoo / Wezer
+THe ERPNext based fork by Lille community
+
 ---
 ## How do I contribute to this list?
 
