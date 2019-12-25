@@ -117,7 +117,7 @@ Here are some databases that helps us find the correct journals and publications
 * [Journal Guide](http://www.journalguide.com/) – Find the best journal for your research.
 * [DOAJ](https://doaj.org/) - A community-curated online directory that indexes and provides access to high quality, open access, peer-reviewed journals.
 * [SSRN](https://www.ssrn.com/en/) - A scientific library that provides 776,065 research papers from 361,613 researchers across 30 disciplines.
-* [Hypotheses](http://hypotheses.org/) - A multi-language  platform of research journals in the humanities and social sciences.
+* [Hypothes.is](http://hypothes.is/) - A multi-language  platform of research journals in the humanities and social sciences.
 * [Isidore SHS Libraries](https://www.rechercheisidore.fr/) - A French library of social and human sciences.
 
 And our own selection of interesting journals:
