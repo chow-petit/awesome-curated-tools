@@ -255,6 +255,7 @@ Web scrapers automatically scrape data from websites. You can always ask these c
 * ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) ![**Open Source**](https://img.shields.io/badge/Open-Source-blue.svg) [Octoparse](https://www.octoparse.com/) - Quickly scrape web data without coding.
 * ![**Open Source**](https://img.shields.io/badge/Open-Source-blue.svg) [ContextMiner](http://www.contextminer.org/) - A framework to collect, analyze, and present the contextual information along with the data.
 * [Websitedownloader.io](http://websitedownloader.io/) - Download all the source code and assets of any website.
+* [Simple Scraper](https://simplescraper.io/) - A suggestion from @humanismusic ; we tested it and it is, indeed, simple to use.
 
 ## Knowledge Management Tools
 #### Content clipping
