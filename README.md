@@ -284,6 +284,8 @@ We like our documents living, reusable and both human and computer-readable. One
 * [Smallpdf](https://smallpdf.com/) - Pdf conversions and related applications. To deal with anything pdf.
 * [Ultradox](http://www.ultradox.com/) - A combination of workflow and template engine to merge, send and print documents, generate websites or send out responsive emails as part of your process. It allows for personnalized documents generation, which is pretty cool.
 
+* TO etst: Roam Research
+
 #### Document management systems
 * ![**Open Source**](https://img.shields.io/badge/Open-Source-blue.svg) [Document Cloud](https://www.documentcloud.org/home) - An open-source software as a service platform that allows users to upload, analyze, annotate, collaborate on and publish primary source documents. Since its launch in 2009, it has been used primarily by journalists to find information in the documents they gather in the course of their reporting and, in the interests of transparency, publish the documents.
 * ![**Open Source**](https://img.shields.io/badge/Open-Source-blue.svg) [Overviewdocs](https://blog.overviewdocs.com/) - Search, analyze and cull huge volumes of text or documents. It was built for investigative journalists who go through thousands of pages of material, but it's also used by reasearchers facing huge archives and social media analysts with millions of posts. This might become a primary Knowledge Management tool for us.
@@ -396,6 +398,8 @@ See also [R&D - Financing](#r&d-financing). We're still looking for a good Franc
 * [Skype](https://www.skype.com/) - A popular telecommunications application software product that specializes in providing video chat and voice calls between computers, tablets, mobile devices, the Xbox One console, and smartwatches via the Internet and to regular telephones.
 * ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) [Zoom.us](https://zoom.us/) - Modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems.
 * ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) [Renater videoconferencing](https://www.renater.fr/) - RENATER (National telecommunications network for Technology, Education and Research) in France provides a national and international connectivity via the pan-European GÉANT network, to more than 1,000 education and research sites in Metropolitan France and Overseas Departments and Territories. The RENATER network is an important and added value tool for research and education.
+
+* TO test : Big Blue Button
 
 #### Project management
 * ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) [Asana](https://asana.com/) - A web and mobile application designed to help teams track their work. Founded in 2008 by Facebook co-founder Dustin Moskovitz and ex-engineer Justin Rosenstein, who both worked on improving the productivity of employees at Facebook.
