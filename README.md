@@ -51,6 +51,8 @@ Your contributions are always welcome !
     * [Qualitative data analysis](#qualitative-data-analysis)
     * [Search engines](#search-engines)
     * [Web scrapers](#web-scrapers)
+* [**Analytic Tools**](#analytic-tools)
+   * [FullSession](https://www.fullsession.io/) – Session replay and user behavior analytics for websites
 * [**Knowledge Management Tools**](#knowledge-management-tools)
     * [Content clipping](#content-clipping)
     * [Curation and editorialisation](#curation-and-editorialisation)
