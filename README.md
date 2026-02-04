@@ -183,6 +183,7 @@ Data quality is key, as illustrated by the [GIGO principle](https://en.wikipedia
 * [Cloudconvert](https://cloudconvert.com/) - Online tool to convert anything to anything, either manually or through its API. Has a connection with Zapier, like most of the tools in this list.
 * [Segment.io](http://segment.io/) - A customer data platform. Collect user data with one API and send it to hundreds of tools or a data warehouse. One API, 200+ tools, and no more integrations.
 * ![**Open Source**](https://img.shields.io/badge/Open-Source-blue.svg) ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg)  [StitchData](https://www.stitchdata.com/) - Data consolidation through a simple, powerful ETL (Extract, Transform, Load) tool built for developers to integrate data through a vast list of possible integrations database.
+* [Convert Audio to MP3](https://convertiraudioamp3.com/) – Browser-based audio toolkit to convert, trim, mix, compress and transcribe voice notes, WhatsApp audio and video to MP3, without registration.
 
 #### Data mining platforms
 
