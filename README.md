@@ -181,6 +181,7 @@ Data quality is key, as illustrated by the [GIGO principle](https://en.wikipedia
 #### Data integration and conversion
 * [Blockspring](https://www.blockspring.com/) - An ETL (Extract, Transform, Load) tool for non-coders, with lots of integrations: it allows to connect web apps and start collecting data from them, to be transformed and reinjected anywhere (ie. in a Google spreadsheet).
 * [Cloudconvert](https://cloudconvert.com/) - Online tool to convert anything to anything, either manually or through its API. Has a connection with Zapier, like most of the tools in this list.
+* [NextJSON](https://nextjson.com/) - Free online nested JSON parser and formatter: decodes escaped and multi-level JSON strings into a readable tree, plus JSON diff, JSON Schema generation and JSON to TOON conversion, all in the browser.
 * [Segment.io](http://segment.io/) - A customer data platform. Collect user data with one API and send it to hundreds of tools or a data warehouse. One API, 200+ tools, and no more integrations.
 * ![**Open Source**](https://img.shields.io/badge/Open-Source-blue.svg) ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg)  [StitchData](https://www.stitchdata.com/) - Data consolidation through a simple, powerful ETL (Extract, Transform, Load) tool built for developers to integrate data through a vast list of possible integrations database.
 
