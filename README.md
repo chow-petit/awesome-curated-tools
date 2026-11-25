@@ -178,6 +178,8 @@ Data quality is key, as illustrated by the [GIGO principle](https://en.wikipedia
 * ![**Open Source**](https://img.shields.io/badge/Open-Source-blue.svg) ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) [OpenRefine](https://dedupe.io/) - A free, open source power tool for working with messy data and improving it.
 * [TriFacta Wrangler](https://www.trifacta.com/products/wrangler/) - Helps data analysts clean and prepare messy, diverse data more quickly and accurately.
 
+* [BestJSON](https://bestjson.com/) - Validate JSON syntax and preview repairs to malformed JSON locally in the browser before downstream data preparation.
+
 #### Data integration and conversion
 * [Blockspring](https://www.blockspring.com/) - An ETL (Extract, Transform, Load) tool for non-coders, with lots of integrations: it allows to connect web apps and start collecting data from them, to be transformed and reinjected anywhere (ie. in a Google spreadsheet).
 * [Cloudconvert](https://cloudconvert.com/) - Online tool to convert anything to anything, either manually or through its API. Has a connection with Zapier, like most of the tools in this list.
